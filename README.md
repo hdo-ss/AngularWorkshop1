@@ -10,7 +10,7 @@ Here are the steps to get you going
 Clone from URL with the GitHub repository URL
 
 ![](http://i.imgur.com/n04FZrW.png)
-![](http://i.imgur.com/knhCE6M.png)
+![](http://i.imgur.com/pMPjCwO.png)
 ### 3. Start Editing!
 --
 
