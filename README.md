@@ -17,8 +17,8 @@ Run your project (green button at the top), and check your console output for th
 
 ![](http://i.imgur.com/KcUoIUV.png)
 
-
 Click the link in the console.  If you see "Hello world", you're set!
+
 --
 
 ## First Workshop!
