@@ -1,11 +1,29 @@
 AngularWorkshop1
 ================
 
-Here are the steps to get you going:
+#First-timers
+Here are the steps to get you going
 
 ## Preparing your cloud9 account.
-  - Sign up with http://c9.io with your github account.  Already have an account?  Activate github in your "Add-on Services"
-  - Click Create Workspace with these settings:
-    ![Create Workspace](http://i.imgur.com/U92qJcq.png)
-    ![Workspace settings](http://i.imgur.com/SaBTjhx.png)
-  -
+### 1. Sign up with http://c9.io
+### 2. Create the workspace
+Clone from URL with the GitHub repository URL
+![](http://i.imgur.com/n04FZrW.png)
+![](http://i.imgur.com/knhCE6M.png)
+### 3. Start Editing!
+--
+
+## First Workshop!
+This angular workshop will use the following features of angular:
+- ng-repeat
+- filter
+- sort
+- scopes
+- services
+
+### The description
+Given a json object that you'll retrieve asynchronously from [this file](https://github.com/feedhenry-training/odbc-integrations/blob/master/cloud/baseball_teams.min.json), **create a table** that: 
+- Lets you sort on the handful of attributes
+- Allows you to filter down the list via an input box.
+
+
