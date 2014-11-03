@@ -23,7 +23,7 @@ This angular workshop will use the following features of angular:
 - services
 
 ### The description
-Given a json object that you'll retrieve asynchronously from [this file](https://github.com/feedhenry-training/odbc-integrations/blob/master/cloud/baseball_teams.min.json), **create a table** that: 
+Given a json object that you'll retrieve asynchronously from [this file](https://github.com/feedhenry-training/odbc-integrations/blob/master/cloud/baseball_teams.min.json)\*, **create a table** that: 
 - Lets you sort on the handful of attributes
 - Allows you to filter down the list via an input box.
 
