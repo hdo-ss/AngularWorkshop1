@@ -28,3 +28,6 @@ Given a json object that you'll retrieve asynchronously from [this file](https:/
 - Allows you to filter down the list via an input box.
 
 
+*Note for humans: Use [this simple json printer](http://jsonformatter.curiousconcept.com/) to see things
+
+
