@@ -8,6 +8,7 @@ Here are the steps to get you going
 ### 1. Sign up with http://c9.io
 ### 2. Create the workspace
 Clone from URL with the GitHub repository URL
+
 ![](http://i.imgur.com/n04FZrW.png)
 ![](http://i.imgur.com/knhCE6M.png)
 ### 3. Start Editing!
