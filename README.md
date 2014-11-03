@@ -1,5 +1,6 @@
 Angular Workshop 1
 ================
+Welcome to the first Angular workshop! Here are a few things to get you guys started:
 
 #First-timers
 Here are the steps to get you going
@@ -21,12 +22,14 @@ Click the link in the console.  If you see "Hello world", you're set!
 --
 
 ## First Workshop!
-This angular workshop will use the following features of angular:
+For your workshop, you will use the following features of angular:
 - ng-repeat
 - filter
 - sort
 - scopes
 - http retrieval
+
+Each of these can be found via the AngularJS documentation
 
 ### The description
 Given a json object that you'll retrieve asynchronously from [this file](https://github.com/feedhenry-training/odbc-integrations/blob/master/cloud/baseball_teams.min.json)\*, **create a table** that: 
