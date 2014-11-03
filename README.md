@@ -12,6 +12,12 @@ Clone from URL with the GitHub repository URL
 ![](http://i.imgur.com/n04FZrW.png)
 ![](http://i.imgur.com/pMPjCwO.png)
 ### 3. Start Editing!
+Run your project (green button at the top), and check your console output for this:
+
+![](http://i.imgur.com/KcUoIUV.png)
+
+
+Click the link in the console.  If you see "Hello world", you're set!
 --
 
 ## First Workshop!
@@ -20,7 +26,7 @@ This angular workshop will use the following features of angular:
 - filter
 - sort
 - scopes
-- services
+- http retrieval
 
 ### The description
 Given a json object that you'll retrieve asynchronously from [this file](https://github.com/feedhenry-training/odbc-integrations/blob/master/cloud/baseball_teams.min.json)\*, **create a table** that: 
