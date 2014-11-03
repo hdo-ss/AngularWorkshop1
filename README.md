@@ -1,4 +1,4 @@
-AngularWorkshop1
+Angular Workshop 1
 ================
 
 #First-timers
