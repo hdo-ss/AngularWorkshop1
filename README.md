@@ -32,7 +32,7 @@ For your workshop, you will use the following features of angular:
 Each of these can be found via the AngularJS documentation
 
 ### The description
-Given a json object that you'll retrieve asynchronously from [this file](https://github.com/feedhenry-training/odbc-integrations/blob/master/cloud/baseball_teams.min.json)\*, **create a table** that: 
+Given a json object that you'll retrieve asynchronously from [this file](https://raw.githubusercontent.com/feedhenry-training/odbc-integrations/master/cloud/baseball_teams.min.json)\*, **create a table** that: 
 - Lets you sort on the handful of attributes
 - Allows you to filter down the list via an input box.
 
